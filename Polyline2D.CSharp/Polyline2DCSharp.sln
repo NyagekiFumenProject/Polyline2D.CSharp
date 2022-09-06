@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polyline2DCSharp", "Polyline2D.CSharp\Polyline2DCSharp.csproj", "{ADA9D7D0-5404-4BA2-804E-80DFF5C2D48E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example", "Example\Example.csproj", "{8B522049-5CDD-4502-8A31-F7E22F630EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADA9D7D0-5404-4BA2-804E-80DFF5C2D48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADA9D7D0-5404-4BA2-804E-80DFF5C2D48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADA9D7D0-5404-4BA2-804E-80DFF5C2D48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADA9D7D0-5404-4BA2-804E-80DFF5C2D48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B522049-5CDD-4502-8A31-F7E22F630EA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B522049-5CDD-4502-8A31-F7E22F630EA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B522049-5CDD-4502-8A31-F7E22F630EA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B522049-5CDD-4502-8A31-F7E22F630EA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C1179ED-3D7B-4109-B5D9-72E63DEEAFF7}
+	EndGlobalSection
+EndGlobal
